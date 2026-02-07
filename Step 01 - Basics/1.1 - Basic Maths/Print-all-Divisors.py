@@ -12,7 +12,7 @@ obj.divisors(36)
 
 ###################################################################
 
-'''More Optimised Soln'''
+'''More Optimised Solution'''
 
 class AllDivisors(object):
     def divisors(self, n):
